@@ -8,5 +8,9 @@ public class HelloWorld {
 
     // awesome work is done and ready to commit
 
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+
 
 }
